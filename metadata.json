@@ -1,0 +1,6 @@
+{
+  "name": "Smart Canteen Pre-Order & Queue Management System",
+  "description": "AI-powered pre-ordering, digital token queue tracking, stock control, and kitchen analytics for campus & workplace canteens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
